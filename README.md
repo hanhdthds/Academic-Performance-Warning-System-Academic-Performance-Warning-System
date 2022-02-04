@@ -63,12 +63,11 @@ To begin the modeling process, we generate baseline models in order to identify 
 ## Results 
 
 <p align="center"><img src="Image_APWS/rs_task1.PNG" width="700"></p>
-<p align="center"><i>Fig. 2.Experimental results on dataset 1 with the first problem.</i></p>
+<p align="center"><i>Fig. 9.Experimental results on dataset 1 with the first problem.</i></p>
 
 <p align="center"><img src="Image_APWS/rs_task3.PNG" width="700"></p>
-<p align="center"><i>Fig. 2.Experimental results on dataset 2 with the first problem.</i></p>
+<p align="center"><i>Fig. 10.Experimental results on dataset 2 with the first problem.</i></p>
 
 <p align="center"><img src="Image_APWS/rs_task2.PNG" width="700"></p>
-<p align="center"><i>Fig. 2.Experimental results on dataset 1 with the first problem.</i></p>
-
+<p align="center"><i>Fig. 11.The experimental results before the final exam.
 
