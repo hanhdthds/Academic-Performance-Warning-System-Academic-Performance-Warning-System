@@ -37,20 +37,20 @@
 >* The second warning: the alert is issued before the final exam.
 ``
 >> `Task 1`: The first warning.
->> >* `Input`:  List GPA of previous semesters.
->> >* `Output`: Alert status (normal, warning, dismissal).
+>> >* Input:  List GPA of previous semesters.
+>> >* Output: Alert status (normal, warning, dismissal).
 >> > <p align="center"><img src="Image_APWS/inout_task1.PNG" width="700"></p>
 <p align="center"><i>Fig. 5.Features used in task 1 for the first warning.</i></p>
 
 >> `Task 2`: The second warning.
->> >* `Input`: List GPA of previous semesters, list grade and weight of the component examination in the current semester.
->> >* `Output`: Alert status (normal, warning, dismissal).
+>> >* Input: List GPA of previous semesters, list grade and weight of the component examination in the current semester.
+>> >* Output: Alert status (normal, warning, dismissal).
 >> ><p align="center"><img src="Image_APWS/inout_task2.PNG" width="700"></p>
 <p align="center"><i>Fig. 6.Features used for the second warning.</i></p>
 
 >> `Task 3`:  The first warning with a improved strategy.
->> >* `Input`: List GPA of previous semesters and pre_avg.
->> >* `Output`:  Alert status (normal, academic probation).
+>> >* Input: List GPA of previous semesters and pre_avg.
+>> >* Output:  Alert status (normal, academic probation).
 >> ><p align="center"><img src="Image_APWS/inout_task3.PNG" width="700"></p>
 <p align="center"><i>Fig. 7.Features used in task 3 for the first alerting.</i></p>
 
@@ -63,11 +63,12 @@ To begin the modeling process, we generate baseline models in order to identify 
 ## Results 
 
 <p align="center"><img src="Image_APWS/rs_task1.PNG" width="700"></p>
-<p align="center"><i>Fig. 9.Experimental results on dataset 1 with the first problem.</i></p>
+<p align="center"><i>Fig. 9.Experimental results on dataset 1 with the first warning.</i></p>
 
 <p align="center"><img src="Image_APWS/rs_task3.PNG" width="700"></p>
-<p align="center"><i>Fig. 10.Experimental results on dataset 2 with the first problem.</i></p>
+<p align="center"><i>Fig. 10.Experimental results on dataset 2 with the first warning.</i></p>
 
 <p align="center"><img src="Image_APWS/rs_task2.PNG" width="700"></p>
-<p align="center"><i>Fig. 11.The experimental results before the final exam.
+<p align="center"><i>Fig. 11.The experimental results before the final exam..</i></p>
+
 
