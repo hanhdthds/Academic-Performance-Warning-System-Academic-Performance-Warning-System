@@ -1,4 +1,5 @@
 # Academic_Performance_Warning_System_For_Higher_Education
+UIT 
 
 ## About
 
@@ -71,4 +72,6 @@ To begin the modeling process, we generate baseline models in order to identify 
 <p align="center"><img src="Image_APWS/rs_task2.PNG" width="700"></p>
 <p align="center"><i>Fig. 11.The experimental results before the final exam..</i></p>
 
+## References
 
+* All references are cited in the report file.
